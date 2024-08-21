@@ -9,6 +9,12 @@ There is no doubt that **GitHub** is such a platform！
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/junxkeeplearn/junxkeeplearn/output/github-contribution-grid-snake.svg">
 </picture>
 
+Plan to establish the following code repository for recording.
+- Embedded: Record the knowledge accumulation of an embedded engineer.
+- Basic Skills: The Missing Semester Of Your CS Education
+- Math: Mathematics is the cornerstone of many professional courses and algorithms, and it is also my interest from a young age.
+- Electronic: My undergraduate major.
+
 
 
 <!--
