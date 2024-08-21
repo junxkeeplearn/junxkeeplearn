@@ -1,6 +1,9 @@
 ## Hi I'm Junx 👋
 
-I gradually realized that I needed a platform to record the knowledge I was accumulating at work, as well as what I was learning privately; without a doubt, GitHub is that platform!
+I gradually realized the need for a platform to record the knowledge I have accumulated at work, as well as the content I learn privately; 
+There is no doubt that **GitHub** is such a platform！
+
+
 
 <!--
 **junxkeeplearn/junxkeeplearn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
