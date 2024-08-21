@@ -10,7 +10,7 @@ There is no doubt that **GitHub** is such a platform！
 </picture>
 
 Plan to establish the following code repository for recording.
-- Embedded: Record the knowledge accumulation of an embedded engineer.
+- [Embedded](https://github.com/junxkeeplearn/Embedded): Record the knowledge accumulation of an embedded engineer.
 - Basic Skills: The Missing Semester Of Your CS Education
 - Math: Mathematics is the cornerstone of many professional courses and algorithms, and it is also my interest from a young age.
 - Electronic: My undergraduate major.
