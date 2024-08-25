@@ -14,6 +14,7 @@ Plan to establish the following code repository for recording.
 - Basic Skills: The Missing Semester Of Your CS Education
 - Math: Mathematics is the cornerstone of many professional courses and algorithms, and it is also my interest from a young age.
 - Electronic: My undergraduate major.
+- AIGC:Learn and enhance your creative abilities, such as producing videos or manuscripts; and study and contemplate how to use tools to improve your creative efficiency, such as AI.
 
 
 
